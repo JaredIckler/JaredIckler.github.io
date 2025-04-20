@@ -19,9 +19,9 @@ When enhancing this artifact I really got an appreciation of how simple implemen
 
 ### **Repository Link**
 
-- [Enhancement Two Repository]((https://github.com/JaredIckler/CS499-EnhancmentThree))
+- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancmentThree)
 
 ### **GitHub Pages Link**
 
-- [CS-499 ePortfolio]((https://jaredickler.github.io/))
+- [CS-499 ePortfolio](https://jaredickler.github.io/)
 
