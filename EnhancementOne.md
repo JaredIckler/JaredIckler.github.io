@@ -3,4 +3,4 @@
 
 ### **Repository Link**
 
-- [Enhancement Two Repository]((https://github.com/JaredIckler/CS499-EnhancementOne))
+- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancementOne)
