@@ -1,4 +1,4 @@
-# **Enhancement Two: Algorithms and Data Structures**
+# **Enhancement Three: Databases**
 
 This artifact uses the project from CS-340 completed in August of 2024.  The original artifact is a python file that was to serve as the backend of an animal shelters database by using PyMongo to interface with the database.  This basic file only has simple functionality of CRUD, create, read, update, and delete, and only for single files at a time, while the enhanced artifact has more in depth SQL functionality.
 
