@@ -11,4 +11,4 @@ This artifact is very unique from the other projects that I have had to do in th
 
 ### **Repository Link**
 
-- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancementOne)
+- [Enhancement One Repository](https://github.com/JaredIckler/CS499-EnhancementOne)
