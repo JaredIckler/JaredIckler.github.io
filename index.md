@@ -25,7 +25,7 @@ This artifact is very unique from the other projects that I have had to do in th
 
 ### **Repository Link**
 
-- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancementOne)
+- [Enhancement One Repository](https://github.com/JaredIckler/CS499-EnhancementOne)
 
 
 # **Enhancement Two: Algorithms and Data Structures**
@@ -55,7 +55,7 @@ When enhancing this artifact I really got an appreciation of how simple implemen
 
 ### **Repository Link**
 
-- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancmentThree)
+- [Enhancement Three Repository](https://github.com/JaredIckler/CS499-EnhancmentThree)
 
 ### **GitHub Pages Link**
 
