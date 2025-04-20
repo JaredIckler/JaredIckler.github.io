@@ -9,4 +9,4 @@ When enhancing this artifact I really got an appreciation of how simple implemen
 
 ### **Repository Link**
 
-- [Enhancement Two Repository]((https://github.com/JaredIckler/CS499-EnhancmentThree))
+- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancmentThree)
