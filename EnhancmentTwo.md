@@ -2,4 +2,4 @@
 
 ### **Repository Link**
 
-- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancmentTwo))
+- [Enhancement Two Repository](https://github.com/JaredIckler/CS499-EnhancmentTwo)
