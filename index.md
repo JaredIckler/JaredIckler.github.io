@@ -1,7 +1,6 @@
 # **CS-499 ePortfolio**
 
 
-
 ## **Introduction & Self-Assessment**
 My experiences completing the Computer Science Program at Southern New Hampshire University has given me a deeper appreciation for the field as a whole.  The courses that I have taken have given me experience and exposure to many different faces of the field, from the basics of Java, C, and Python, to more advanced topics such as app development, microcontroller interfacing, and database management.  This ePortfolio displays some of the skills, though not all, that I have acquired during my time at Southern New Hampshire University.  Despite this not being a complete reflection of my abilities, it does showcase my knowledge in three main categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.  The three artifacts shown are all in different programming languages, C, Java, and Python respectively, and this shows off some of the flexibility that I have gained while completing this program.
 
